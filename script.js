@@ -230,5 +230,3 @@ console.log(sumAndProduct(arr1));
 
 */
 
-// 13 Add Items to Array
-// Write a JavaScript program to add items to a blank array and display them.
